@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -16,8 +23,20 @@
     </option>
   </component>
   <component name="ProjectId" id="1XXTy5Bk7DaAvGBp4PZNjtZAGls" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -25,19 +44,21 @@
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\main\java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in JenkinsCalculator">
+    <configuration name="All in JenkinsCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculatorTest.divideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JenkinsCalculator" />
       <option name="PACKAGE_NAME" value="" />
@@ -48,8 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.All in JenkinsCalculator" />
+      <item itemvalue="JUnit.CalculatorTest.divideTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in JenkinsCalculator" />
         <item itemvalue="JUnit.CalculatorTest.divideTest" />
       </list>
     </recent_temporary>
@@ -66,5 +92,23 @@
       <updated>1581191690472</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="80" y="198" key="#Project_Structure" timestamp="1602254782898">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="80" y="198" key="#Project_Structure/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254782898" />
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602254961754">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254961754" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1602254914566">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254914566" />
+    <state x="184" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1602254765776">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="184" y="363" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254765776" />
   </component>
 </project>
