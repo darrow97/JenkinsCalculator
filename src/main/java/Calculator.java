@@ -71,7 +71,7 @@ class Calculator {
      */
     String intToBinaryNumber(int n)
     {
-//        int binaryNum[32];
+
 //
 //        // counter for binary array
 //        int i = 0;
