@@ -53,7 +53,7 @@ public class CalculatorTestThorough {
     }
 
     @Test
-    public void divideByZeroFailure(){
+    public void divideByZeroFailure() {
         Calculator myCalculator = new Calculator();
 
         String failureMessage =  "/ by zero";
@@ -64,7 +64,8 @@ public class CalculatorTestThorough {
                 fail();
             }
             catch (ArithmeticException e){
-                assertTrue(failureMessage.contains(e.getMessage()));
+                System.out.println(i + " " + e.getMessage());
+                assertTrue(failureMessage.contains("/ by zero"));
             }
         }
 

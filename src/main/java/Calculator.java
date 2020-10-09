@@ -19,7 +19,7 @@ class Calculator {
         return a * b;
     }
 
-    int divide(int a , int b) throws ArithmeticException
+    int divide(int a , int b)
     {
         return a / b;
     }
@@ -72,15 +72,6 @@ class Calculator {
     String intToBinaryNumber(int n)
     {
 
-//
-//        int i = 0;
-//        while (n > 0) {
-//
-//            // storing remainder in binary array
-//            binaryNum[i] = n % 2;
-//            n = n / 2;
-//            i++;
-//        }
         return Integer.toBinaryString(n);
     }
 
@@ -94,7 +85,6 @@ class Calculator {
      */
     String createUniqueID(String n){
         double rNum = Math.random();
-
 
         return n + String.valueOf(rNum * 6.37);
     }
