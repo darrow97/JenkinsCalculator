@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -91,7 +89,30 @@
       <option name="presentableId" value="Default" />
       <updated>1581191690472</updated>
     </task>
+    <task id="LOCAL-00001" summary="update for compiling">
+      <created>1602255023331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602255023331</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update for compiling" />
+    <option name="LAST_COMMIT_MESSAGE" value="update for compiling" />
   </component>
   <component name="WindowStateProjectService">
     <state x="80" y="198" key="#Project_Structure" timestamp="1602254782898">
@@ -102,13 +123,21 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254961754" />
-    <state x="461" y="182" key="SettingsEditor" timestamp="1602254914566">
+    <state x="601" y="134" key="CommitChangelistDialog2" timestamp="1602255022700">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="182" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254914566" />
+    <state x="601" y="134" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602255022700" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1602255138934">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602255138934" />
     <state x="184" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1602254765776">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="184" y="363" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254765776" />
+    <state x="769" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602255057787">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602255057787" />
   </component>
 </project>
