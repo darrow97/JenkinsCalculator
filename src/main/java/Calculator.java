@@ -73,7 +73,6 @@ class Calculator {
     {
 
 //
-//        // counter for binary array
 //        int i = 0;
 //        while (n > 0) {
 //
