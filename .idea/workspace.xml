@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="">
+    <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="Updated Fibonacci method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTestThorough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTestThorough.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +39,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mverg\IdeaProjects\JenkinsCalculator" />
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\test\java" />
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\main\java" />
     </key>
@@ -102,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602255160821</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added Jenkinsfile">
+      <created>1602255512692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602255512692</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,7 +129,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update for compiling" />
     <MESSAGE value="updated to match Jenkins JDK" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated to match Jenkins JDK" />
+    <MESSAGE value="added Jenkinsfile" />
+    <MESSAGE value="Updated Fibonacci method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Fibonacci method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="80" y="198" key="#Project_Structure" timestamp="1602254782898">
@@ -130,10 +142,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254961754" />
-    <state x="601" y="134" key="CommitChangelistDialog2" timestamp="1602255446333">
+    <state x="601" y="134" key="CommitChangelistDialog2" timestamp="1602283062998">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="601" y="134" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602255446333" />
+    <state x="601" y="134" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602283062998" />
+    <state width="1877" height="363" key="GridCell.Tab.0.bottom" timestamp="1602283156504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602283156504" />
+    <state width="1877" height="363" key="GridCell.Tab.0.center" timestamp="1602283156504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602283156504" />
+    <state width="1877" height="363" key="GridCell.Tab.0.left" timestamp="1602283156504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602283156504" />
+    <state width="1877" height="363" key="GridCell.Tab.0.right" timestamp="1602283156504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602283156504" />
     <state x="461" y="182" key="SettingsEditor" timestamp="1602255138934">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

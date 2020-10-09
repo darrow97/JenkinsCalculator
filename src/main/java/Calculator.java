@@ -1,3 +1,5 @@
+import java.lang.reflect.Array;
+import java.util.ArrayList;
 
 class Calculator {
 
@@ -17,7 +19,8 @@ class Calculator {
         return a * b;
     }
 
-    int divide(int a , int b){
+    int divide(int a , int b) throws ArithmeticException
+    {
         return a / b;
     }
 
@@ -38,8 +41,24 @@ class Calculator {
     .
     etc
      */
-    int fibonacciNumberFinder(int n){
-        return 0;
+    int fibonacciNumberFinder(int n)
+    {
+
+
+        if(n == 0 || n == 1) return n;
+
+        int previousNumber = 0;
+        int nextNumber = 1;
+        int sum = 0;
+
+        for (int i = 2; i <= n; ++i)
+        {
+            sum = previousNumber + nextNumber;
+            previousNumber = nextNumber;
+            nextNumber = sum;
+        }
+
+        return sum;
     }
 
 
@@ -50,8 +69,20 @@ class Calculator {
     if int a = 10 then this method returns: 1010
     if int a = 16 then this method returns: 10000
      */
-    String intToBinaryNumber(int n){
-        return null;
+    String intToBinaryNumber(int n)
+    {
+//        int binaryNum[32];
+//
+//        // counter for binary array
+//        int i = 0;
+//        while (n > 0) {
+//
+//            // storing remainder in binary array
+//            binaryNum[i] = n % 2;
+//            n = n / 2;
+//            i++;
+//        }
+        return Integer.toBinaryString(n);
     }
 
     /*
@@ -63,8 +94,10 @@ class Calculator {
     if you run this function twice with the same String input, it must return 2 unique String IDs
      */
     String createUniqueID(String n){
+        double rNum = Math.random();
 
-        return null;
+
+        return n + String.valueOf(rNum * 6.37);
     }
 
 
