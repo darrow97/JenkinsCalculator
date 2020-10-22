@@ -18,19 +18,24 @@ public class Main
         int num1, num2;
         Scanner scanner = new Scanner(System.in);
 
-        command = scanner.nextLine();
+        boolean terminate = false;
+        Calculator calc = new Calculator();
+
+        command = scanner.next();
 //        num1 = command.
         num1 = scanner.nextInt();
         num2 = scanner.nextInt();
 
-        Calculator calc = new Calculator();
-//        System.out.println(command + " " + num1 + " " + num2);
-        if(command.equals("add")) System.out.println(calc.add(num1, num2));
-        if(command.equals("subtract")) System.out.println(calc.subtract(num1, num2));
-        if(command.equals("multiply")) System.out.println(calc.multiply(num1, num2));
-        if(command.equals("divide")) System.out.println(calc.divide(num1, num2));
-        if(command.equals("fibonacci")) System.out.println(calc.fibonacciNumberFinder(num1));
-        if(command.equals("binary")) System.out.println(calc.intToBinaryNumber(num1));
 
+//        System.out.println(command + " " + num1 + " " + num2);
+        while(!terminate) {
+            if (command.equals("add")) System.out.println(calc.add(num1, num2));
+            if (command.equals("subtract")) System.out.println(calc.subtract(num1, num2));
+            if (command.equals("multiply")) System.out.println(calc.multiply(num1, num2));
+            if (command.equals("divide")) System.out.println(calc.divide(num1, num2));
+            if (command.equals("fibonacci")) System.out.println(calc.fibonacciNumberFinder(num1));
+            if (command.equals("binary")) System.out.println(calc.intToBinaryNumber(num1));
+            if(command.equals("terminate")) terminate = true;
+        }
     }
 }
