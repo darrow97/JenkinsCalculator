@@ -15,7 +15,7 @@ public class Main
         System.out.println("\tbinary <int>");
 
         String command;
-        int num1, num2;
+        int num1, num2 = 0;
         Scanner scanner = new Scanner(System.in);
 
         boolean terminate = false;
@@ -25,11 +25,12 @@ public class Main
 
 
 //        System.out.println(command + " " + num1 + " " + num2);
-        while(!terminate) {
+        while(true) {
             command = scanner.next();
 //        num1 = command.
             num1 = scanner.nextInt();
-            num2 = scanner.nextInt();
+            if(command.equals("add") || command.equals("subtract") ||
+                    command.equals("multiply") || command.equals("divide")) num2 = scanner.nextInt();
 
             if (command.equals("add")) System.out.println(calc.add(num1, num2));
             if (command.equals("subtract")) System.out.println(calc.subtract(num1, num2));
@@ -37,7 +38,7 @@ public class Main
             if (command.equals("divide")) System.out.println(calc.divide(num1, num2));
             if (command.equals("fibonacci")) System.out.println(calc.fibonacciNumberFinder(num1));
             if (command.equals("binary")) System.out.println(calc.intToBinaryNumber(num1));
-            if(command.equals("terminate")) terminate = true;
+            if(command.equals("terminate")) break;
         }
     }
 }
