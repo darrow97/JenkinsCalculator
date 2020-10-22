@@ -19,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -190,26 +191,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254961754" />
-    <state x="601" y="134" key="CommitChangelistDialog2" timestamp="1602284097085">
+    <state x="601" y="134" key="CommitChangelistDialog2" timestamp="1603337029419">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="601" y="134" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602284097085" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1603336988943">
+    <state x="601" y="134" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603337029419" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1603337050893">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603336988943" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1603336988942">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603337050893" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1603337050893">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603336988942" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1603336988942">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603337050893" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1603337050892">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603336988942" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1603336988943">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603337050892" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1603337050893">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603336988943" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603337050893" />
     <state x="461" y="182" key="SettingsEditor" timestamp="1602255138934">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -218,9 +219,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="184" y="363" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254765776" />
-    <state x="769" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602255057787">
+    <state x="769" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603337077364">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="769" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602255057787" />
+    <state x="769" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603337077364" />
   </component>
 </project>
