@@ -21,14 +21,16 @@ public class Main
         boolean terminate = false;
         Calculator calc = new Calculator();
 
-        command = scanner.next();
-//        num1 = command.
-        num1 = scanner.nextInt();
-        num2 = scanner.nextInt();
+
 
 
 //        System.out.println(command + " " + num1 + " " + num2);
         while(!terminate) {
+            command = scanner.next();
+//        num1 = command.
+            num1 = scanner.nextInt();
+            num2 = scanner.nextInt();
+
             if (command.equals("add")) System.out.println(calc.add(num1, num2));
             if (command.equals("subtract")) System.out.println(calc.subtract(num1, num2));
             if (command.equals("multiply")) System.out.println(calc.multiply(num1, num2));

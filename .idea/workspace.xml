@@ -170,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603337088529</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="corrected input functionality">
+      <created>1603338378001</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603338378001</updated>
+    </task>
+    <task id="LOCAL-00011" summary="corrected input functionality">
+      <created>1603338398446</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603338398446</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +209,8 @@
     <MESSAGE value="Updated createUniqueID method" />
     <MESSAGE value="Updated divideByZero method" />
     <MESSAGE value="added Main.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Main.java" />
+    <MESSAGE value="corrected input functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected input functionality" />
   </component>
   <component name="WindowStateProjectService">
     <state x="80" y="198" key="#Project_Structure" timestamp="1602254782898">
@@ -206,26 +221,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1602254961754" />
-    <state x="601" y="134" key="CommitChangelistDialog2" timestamp="1603338377388">
+    <state x="601" y="134" key="CommitChangelistDialog2" timestamp="1603338397786">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="601" y="134" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603338377388" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1603338378940">
+    <state x="601" y="134" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603338397786" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1603338564516">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603338378940" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1603338378939">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603338564516" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1603338564515">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603338378939" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1603338378938">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603338564515" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1603338564515">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603338378938" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1603338378939">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603338564515" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1603338564516">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603338378939" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1603338564516" />
     <state x="461" y="182" key="SettingsEditor" timestamp="1602255138934">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
